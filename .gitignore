@@ -1,0 +1,17 @@
+# datasets (downloaded by the notebooks in Colab)
+icv83551/datasets/cifar-10-batches-py/
+icv83551/datasets/cifar-10-python.tar.gz
+icv83551/datasets/coco_captioning/
+icv83551/datasets/imagenet_val_25.npz
+icv83551/datasets/cifar-10-batches-py.tar.gz
+
+# python / cython build artifacts
+__pycache__/
+*.pyc
+icv83551/build/
+.ipynb_checkpoints/
+
+# submission outputs
+a2_code_submission.zip
+a2_inline_submission.pdf
+Yuval_Harary_315112367.txt
